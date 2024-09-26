@@ -9,7 +9,6 @@ from qdrant_client.models import PointStruct, Distance, VectorParams
 
 
 env = dotenv_values(".env")
-env = dotenv_values(".env")
 ### Secrets using Streamlit Cloud Mechanism
 # https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/secrets-management
 if 'QDRANT_URL' in st.secrets:
