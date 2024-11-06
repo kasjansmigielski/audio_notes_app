@@ -1,5 +1,5 @@
 ### Application description:
-The goal of the project was to create the AI-powered application, used to record voice notes, transcribe them into text and finally enable saving notes in the QDrant vector database and their semantic search. To do this, I used two LLM models from OpenAI: whisper-1 (speech -> text) and text-embeddings-3-large (text -> embeddings).
+The goal of the project was to create the AI-powered application, used to record voice notes, transcribe them into text and finally enable saving notes in the QDrant vector database and their semantic search. To do this, I used two LLM models from OpenAI: `whisper-1` (speech -> text) and `text-embeddings-3-large` (text -> embeddings).
 
 ### Main functionalities:
 * recording and listening to voice notes,
