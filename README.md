@@ -17,4 +17,4 @@ The goal of the project was to create the AI-powered application, used to record
 
 ### Result:
 The application is publicly deployed at the link: https://audio-notes.streamlit.app/<br>
-To use it, an OpenAI API key is required.
+**To use it, an OpenAI API key is required.**
